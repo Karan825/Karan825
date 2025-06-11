@@ -1,1 +1,1 @@
-<img src="This pin is all about coding.gif" width="800"/>
+<img src="This pin is all about coding.gif" width="10000"/>
