@@ -1,1 +1,1 @@
-<img src="retro2_live.gif" width="1000"/>
+<img src="This pin is all about coding.gif" width="800"/>
