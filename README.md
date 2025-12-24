@@ -23,12 +23,6 @@ me.say_hi()
 
 ```
 ##  Tools & Technologies
-<div>
-  <div align="center">
-    <h1>Knowledge Base</h1>
-    <img width="350" height="auto" src="./resources/img/coding-dawn.gif"/>
-  </div>
-
   <div align="center">
     <h3>Languages</h3>
     <a href="https://www.python.org/" target="_blank">
@@ -239,6 +233,6 @@ me.say_hi()
     </a>
   </div>                                                                                                                                 
 <div align="center">
-  <img  src="resources/img/github-contribution-grid-snake.svg"
+  <img  src="github-contribution-grid-snake.svg"
     alt="elanza-48" />
 </div>
