@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+
 <img 
   src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"
   width="1000"
@@ -20,6 +22,9 @@ class MLEngineer:
 
 me = MLEngineer()
 me.say_hi()
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+
 ```
 ##  Tools & Technologies
 
