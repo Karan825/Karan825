@@ -22,7 +22,8 @@ me = MLEngineer()
 me.say_hi()
 
 ```
-##  Tools & Technologies
+<h1 align="center">Tools & Technologies</h1>
+
   <div align="center">
     <h3>Languages</h3>
     <a href="https://www.python.org/" target="_blank">
